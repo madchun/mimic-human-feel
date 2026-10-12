@@ -1,0 +1,8 @@
+interface:
+  display_name: "模人感覺"
+  short_description: "讓 Agent 回應更自然、有記憶感、有邊界同埋更有人味"
+  brand_color: "#2F6F68"
+  default_prompt: "Use $mimic-human-feel to make this agent reply with natural, grounded, non-deceptive human-feel."
+
+policy:
+  allow_implicit_invocation: true
